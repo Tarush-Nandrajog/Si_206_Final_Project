@@ -9,5 +9,5 @@ from numpy.core.fromnumeric import size
 import requests
 import pandas as pd
 
-## Team Name: The Yelpers  
+## Team Name: The Yelpers 
 ## Team Members: Tarush Nandrajog, Jenya Patel
